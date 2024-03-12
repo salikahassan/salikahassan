@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @salikahassan
-- 👀 I’m interested in Working on projects that will enhance my experence.iam eager to learn new technologies.
-- 🌱 I’m currently learning html ,css , javascript and React..Iam a font-end developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Summary
+Self-taught software developer with a passion for learning and problem-solving. Proficient in html css and JS<br/>. Eager to leverage my knowledge and creativity to contribute effectively to a dynamic team.
 
-<!---
-salikahassan/salikahassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>Education</b>
+Self-Taught Programmer
+Completed online courses, tutorials, and personal projects to acquire programming skills.
+Developed a solid understanding of JavaScript functions and Logic programming.
+<b>Skills,/b>
+Programming Languages:  JavaScript
+Technologies:  React
+Problem Solving: Ability to analyze complex problems and develop effective solutions.
+Communication: Strong verbal and written communication skills.
+Collaboration: Experience working in a team environment and collaborating with others on projects.
+
