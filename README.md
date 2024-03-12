@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @salikahassan
-Summary
-Self-taught software developer with a passion for learning and problem-solving. Proficient in html css and JS<br/>. Eager to leverage my knowledge and creativity to contribute effectively to a dynamic team.
+- 👋 Hi, I’m @salikahassan<br/>
+<b>Summary</b>:<br/>
+Self-taught software developer with a passion for learning and problem-solving<br/> Proficient in html css and JS<br/> Eager to leverage my knowledge and creativity to contribute effectively to a dynamic team.<br/><br/>
 
 <b>Education</b>
 Self-Taught Programmer
