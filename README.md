@@ -6,7 +6,7 @@ Self-taught software developer with a passion for learning and problem-solving. 
 Self-Taught Programmer
 Completed online courses, tutorials, and personal projects to acquire programming skills.
 Developed a solid understanding of JavaScript functions and Logic programming.
-<b>Skills,/b>
+<b>Skills</b>
 Programming Languages:  JavaScript
 Technologies:  React
 Problem Solving: Ability to analyze complex problems and develop effective solutions.
